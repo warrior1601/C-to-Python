@@ -12,7 +12,7 @@
 *.filters
 *.vcxproj
 build/
-  
+.vscode/  
 
 CMakeCache.txt
 CMakeFiles
